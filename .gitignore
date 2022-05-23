@@ -2,22 +2,19 @@
 *.log
 *.lock
 
-# Package Files #
 *.jar
 *.war
 *.ear
 target/
 
-# idea
+
 .idea/
 *.iml
 
-### STS ###
 .apt_generated
 .factorypath
 .springBeans
 
-### IntelljJ IDEA ###
 *.iml
 *.ipr
 *.iws
@@ -30,5 +27,4 @@ bin/
 *.log
 tmp/
 
-#rebel
 *rebel.xml*
